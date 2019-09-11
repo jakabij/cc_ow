@@ -11,5 +11,7 @@ if a.isdigit() and b.isdigit() and c.isdigit():
 			print("Editable!")
 		else:
 			print("Not editable!")
+	else:
+		print("Give non zero sides!")
 else:
 	print("Only numbers allowed!")
